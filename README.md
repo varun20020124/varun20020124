@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Varun
 
 # 💫 About Me:
 I am a recent Computer Engineering & Applied Mathematics graduate from UMass Amherst, passionate about Backend Development, Distributed Systems, Agentic AI & LLMs, and Machine Learning.  
