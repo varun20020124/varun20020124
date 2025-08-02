@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 I am a recent Computer Engineering & Applied Mathematics graduate from UMass Amherst, passionate about Backend Development, Distributed Systems, Agentic AI & LLMs, and Machine Learning.  
-I am seeking early career Software Engineering opportunities.
+<br>I am seeking early career Software Engineering opportunities.<br>
 
 ## 🚀 What I'm Up To
 
