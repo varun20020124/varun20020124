@@ -6,7 +6,7 @@ I am seeking early career Software Engineering opportunities.
 
 ## 🚀 What I'm Up To
 
-🧠 Working through the **Neetcode 250** to deepen my command of data structures & algorithms.
+<br>🧠 Working through the **Neetcode 250** to deepen my command of data structures & algorithms.<br>
 <br>🌐 Studying distributed systems and systems design fundamentals<br> 
 <br>🤖 Exploring agentic workflows and LLM powered applications using **LangChain**, **LlamaIndex**, **OpenAI APIs**, and **vector databases** like **FAISS**<br>
 
