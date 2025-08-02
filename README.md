@@ -1,13 +1,22 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am a recent Computer Engineering & Applied Mathematics graduate from Umass Amherst, passionate about Backend Development, Distributed Systems, Agentic AI & LLMs and Machine Learning.<br>I am seeking early career Software Engineering opportunities<br>
+I am a recent Computer Engineering & Applied Mathematics graduate from UMass Amherst, passionate about Backend Development, Distributed Systems, Agentic AI & LLMs, and Machine Learning.  
+I am seeking early career Software Engineering opportunities.
+
 
 # 🚀 What I'm Up To
 
 - Working through the **Neetcode 250** to deepen my command of data structures, algorithms, and problem-solving patterns.  
 - Studying the foundations and trade-offs of **distributed systems** to strengthen my systems design skills.  
 - Exploring **agentic workflows** and the evolving capabilities of **LLMs** to build more intelligent, autonomous applications.
+
+## 🚀 What I'm Up To
+
+🧠 Working through the **Neetcode 250** to deepen my command of data structures & algorithms.
+🌐 Studying distributed systems and systems design fundamentals  
+🤖 Exploring agentic workflows and LLM powered applications using **LangChain**, **LlamaIndex**, **OpenAI APIs**, and **vector databases** like **FAISS**
+
 
 
 ## 🌐 Socials:
