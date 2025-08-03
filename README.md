@@ -5,8 +5,8 @@ I am a recent Computer Engineering & Applied Mathematics graduate from UMass Amh
 
 Internships :
 
-- NASA Goddard Space Flight Center
-- Dream11
+- NASA Goddard Space Flight Center (Summer 24)
+- Dream11 (Summer 23)
 
 <br>I am seeking early career Software Engineering opportunities.<br>
 
