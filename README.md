@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Varun
 
 # 💫 About Me:
-I am a recent Computer Engineering & Applied Mathematics graduate from UMass Amherst, passionate about Backend Development, Distributed Systems, Agentic AI & LLMs, and Machine Learning.  
+I am a recent Computer Engineering & Applied Mathematics graduate from UMass Amherst, passionate about Backend Development, Distributed Systems, Agentic AI & LLMs, and Machine Learning. I have previously worked at **Dream11** and **NASA Goddard Space Flight Center**
 <br>I am seeking early career Software Engineering opportunities.<br>
 
 ## 🚀 What I'm Up To
