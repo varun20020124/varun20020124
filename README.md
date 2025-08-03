@@ -8,7 +8,6 @@ Internships :
 - NASA Goddard Space Flight Center
 - Dream11
 
-  
 <br>I am seeking early career Software Engineering opportunities.<br>
 
 ## 🚀 What I'm Up To
