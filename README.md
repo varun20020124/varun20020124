@@ -10,7 +10,12 @@ I am a recent Computer Engineering & Applied Mathematics graduate from UMass Amh
 <br>🌐 Studying distributed systems and systems design fundamentals<br> 
 <br>🤖 Exploring agentic workflows and LLM powered applications using **LangChain**, **LlamaIndex**, **OpenAI APIs**, and **vector databases** like **FAISS**<br>
 
+## 📌 Areas I'm especially interested in
 
+- Distributed Systems & Design Principles  
+- Graph and Optimization Algorithms  
+- Natural Language Processing  
+- Mathematical Foundations of Machine Learning
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varunjhaveri/) 
