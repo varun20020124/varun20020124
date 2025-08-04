@@ -1,27 +1,35 @@
 ## Hi there 👋, I'm Varun
 
 # 💫 About Me:
-I am a recent Computer Engineering & Applied Mathematics graduate from UMass Amherst, passionate about Backend Development, Distributed Systems, Agentic AI & LLMs, and Machine Learning.
+I am a recent Computer Engineering & Applied Mathematics graduate from UMass Amherst, passionate about Backend Development, Distributed Systems, Agentic AI & Machine Learning.
 
-Internships :
+Experience :
 
-- NASA Goddard Space Flight Center (Summer 24)
+- NASA Goddard Space Flight Center (Summer 24) 
 - Dream11 (Summer 23)
 
-<br>I am seeking early career Software Engineering opportunities.<br>
+<br>I am seeking early career Software Engineering and Machine Learning opportunities.<br>
 
 ## 🚀 What I'm Up To
 
-<br>🧠 Working through the **Neetcode 250** to deepen my command of data structures & algorithms.<br>
+<br>🧠 Working through the **Neetcode 250** list to deepen my command of data structures & algorithms.<br>
 <br>🌐 Studying distributed systems and systems design fundamentals<br> 
 <br>🤖 Exploring agentic workflows and LLM powered applications using **LangChain**, **LlamaIndex**, **OpenAI APIs**, and **vector databases** like **FAISS**<br>
 
-## 📌 Areas I'm especially interested in
+## 📌 Specific Areas I am interested in
 
 - Distributed Systems & Design Principles  
 - Graph and Optimization Algorithms  
 - Natural Language Processing  
 - Mathematical Foundations of Machine Learning
+
+## 🧠 Relevant Coursework
+
+- **ECE 325** : Computer Networks
+- **ECE 322** : Systems Programming
+- **ECE 341** : Algorithms
+- **MATH 590** : Mathematical Machine Learning
+- **MATH 551** : Scientific Computing
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varunjhaveri/) 
