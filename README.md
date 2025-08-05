@@ -20,8 +20,8 @@ Experience :
 
 - Distributed Systems & Design Principles  
 - Graph and Optimization Algorithms  
-- Natural Language Processing  
-- Mathematical Foundations of Machine Learning
+- Natural Language Processing & Information Retrieval
+- Mathematical Foundations of Machine Learning : it's all LinAl
 
 ## 🧠 Relevant Coursework
 
