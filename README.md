@@ -14,7 +14,7 @@ Experience :
 
 <br>🧠 Working through the **Neetcode 250** list to deepen my command of data structures & algorithms.<br>
 <br>🌐 Studying distributed systems and systems design fundamentals<br> 
-<br>🤖 Exploring agentic workflows and LLM powered applications using **LangChain**, **LlamaIndex**, **OpenAI APIs**, and **vector databases** like **FAISS**<br>
+<br>🤖 Exploring agentic workflows and LLM powered applications using **LangChain**, **LlamaIndex**, **OpenAI APIs**, and **vector databases** like **Pinecone** & **FAISS**<br>
 
 ## 📌 Specific Areas I am interested in
 
