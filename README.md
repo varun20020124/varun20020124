@@ -7,7 +7,7 @@ Experience :
 
 - Configuratori (Software Engineer Intern)
 - NASA Goddard Space Flight Center (Research Intern - Machine Learning) 
-- Dream11 (Data Science Intern) - at the time one of India's biggest company)
+- Dream11 (Data Science Intern) - one of India's biggest startups
 
 <br>I am seeking Software Engineering and Machine Learning internships<br>
 
