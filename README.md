@@ -3,12 +3,6 @@
 # 💫 About Me:
 I am a Masters student in Computational Science and Engineering & Financial Engineering at Georgia Tech. I completed by undergrad from Umass Amherst in Computer Engineering & Applied Mathematics. I am passionate about Agentic AI & Machine Learning, and Algorithms.
 
-Experience :
-
-- Configuratori (Software Engineer Intern)
-- NASA Goddard Space Flight Center (Research Intern - Machine Learning) 
-- Dream11 (Data Science Intern) - one of India's biggest startups
-
 <br>I am seeking Software Engineering and Machine Learning internships<br>
 
 ## 🚀 What I'm Up To
